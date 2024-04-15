@@ -51,3 +51,5 @@ packages/
 /WinGTK/WinGTK/glib-genmarshal
 /WinGTK/WinGTK/gdbus-codegen
 /WinGTK/WinGTK/g-ir-scanner
+/WinGTK/WinGTK/lib/girepository-1.0/
+/WinGTK/WinGTK/share/icons

@@ -10,5 +10,5 @@ setup(name='WinGTK',
       author_email='scripting@dschoni.de',
       license='MIT',
       packages=find_packages(),
-      package_data={'':['*.dll','*.typelib']}, # This is the most important line.
+      package_data={'':['bin/*.dll','lib/**','share/**']}, # This is the most important line.
       zip_safe=False)
